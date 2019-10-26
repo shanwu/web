@@ -89,7 +89,7 @@ class Page extends React.Component {
           marginTop: '5px',
           marginBottom: '15px',
         }}>
-          则租售比为 36,000 / 2,000,000 = 1.8%
+          则租售比为 36,000 ÷ 2,000,000 = 1.8%
           </h4>
         <form style={{
           color: '#333',
@@ -111,7 +111,7 @@ class Page extends React.Component {
               textAlign: 'center',
             }}
             type="number" value={this.state.rent} onChange={this.handleRentChange} placeholder="每月房租" />
-          <label> x 12 / </label>
+          <label> x 12 ÷ </label>
           <input
             style={{
               width: '100px',
