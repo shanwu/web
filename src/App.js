@@ -40,7 +40,8 @@ export default class App extends React.Component {
         fontSize:'20px',
         position:"absolute",
         left:'56px',
-        top:'13px',
+        top:'10px',
+        userSelect:'none',
         background:'transparent',
       }}>房产投资</label></button>
     );
