@@ -17,9 +17,10 @@ export default class App extends React.Component {
   render() {
     return (
       <button style={{
+        background:'white',
         position:'relative',
-        width:150,
-        height:48,
+        width:'150px',
+        height:'48px',
         borderRadius:5,
         paddingTop:2,
         paddingBottom:2,
@@ -36,10 +37,10 @@ export default class App extends React.Component {
       }}
       src={houseLogo} alt="my image"  />
       <label style={{
-        fontSize:20,
+        fontSize:'20px',
         position:"absolute",
-        left:56,
-        top:13,
+        left:'56px',
+        top:'13px',
         background:'transparent',
       }}>房产投资</label></button>
     );
