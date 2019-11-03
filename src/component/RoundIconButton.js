@@ -21,16 +21,16 @@ export default class RoundIconButton extends React.Component {
                 paddingBottom: 2,
                 paddingLeft: 4,
                 paddingRight: 4,
-            }} onClick={() => { this.props.onClickListener() }}><img style={{
-                position: 'absolute',
-                top: 5,
-                left: 5,
-                width: 35,
-                height: 35,
-                background: 'transparent',
-                margin: 0,
-            }}
-                src={this.props.icon} alt="my image" />
+            }} onClick={() => { this.props.onClickListener() }}>
+                <img style={{
+                    position: 'absolute',
+                    top: 5,
+                    left: 5,
+                    width: 35,
+                    height: 35,
+                    background: 'transparent',
+                    margin: 0,
+                }} src={this.props.icon} alt="my image" />
                 <label style={{
                     color: this.props.textColor,
                     fontSize: '20px',
