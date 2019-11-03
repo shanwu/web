@@ -69,6 +69,7 @@ const Rotate = styled.image`
           background='white'
           text='房产投资'
           marginTop='80px'
+          marginButton= '25px'
           height='48px'
           width='150px'
           roundRadius='10px'
