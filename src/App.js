@@ -1,14 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
-import {withRouter} from 'react-router-dom';
-import houseLogo from '../src/image/icon_house.svg'
-import { whileStatement, blockStatement } from '@babel/types';
-import { relative } from 'path';
+import RoundIconButton from '../src/component/RoundIconButton.js';
+import houseLogo from '../src/image/icon_house.svg';
 
 export default class App extends React.Component {
   constructor(props) {
     super(props);
-    // todo
   }
   nextPath(path) {
     this.props.history.push(path);
@@ -16,38 +12,20 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <button style={{
-        background:'white',
-        position:'relative',
-        width:'150px',
-        height:'48px',
-        borderRadius:5,
-        paddingTop:2,
-        paddingBottom:2,
-        paddingLeft:4,
-        paddingRight:4,
-      }} onClick={() => this.nextPath('/house') }><img style={{
-        position:'absolute',
-        top:5,
-        left:5,
-        width:35,
-        height:35,
-        background:'transparent',
-        margin:0,
-      }}
-      src={houseLogo} alt="my image"  />
-      <label style={{
-        fontSize:'20px',
-        position:"absolute",
-        left:'56px',
-        top:'10px',
-        userSelect:'none',
-        background:'transparent',
-      }}>房产投资</label></button>
+      <div>
+        <RoundIconButton
+          icon={houseLogo}
+          marginTop='20px'
+          background='#CCFFFF'
+          text='房产投资'
+          height='48px'
+          width='150px'
+          roundRadius='10px'
+          textColor='#3a3a3a'
+          onClickListener={() => { this.nextPath('house') }} />
+      </div>
+
     );
-      // <button src="./image/house_icon.jpg" onClick={() => this.nextPath('/house') }>
-      //   房屋投资考虑 
-      // </button>    );
   }
 
 }
