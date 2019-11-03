@@ -14,8 +14,9 @@ export default class App extends React.Component {
   render() {
     return (
       <div style={{
-        background:'white',
-        padding:'15px'
+        background: 'white',
+        padding: '15px',
+        borderRadius: '10px',
       }}>
         <RoundIconButton
           icon={houseLogo}
