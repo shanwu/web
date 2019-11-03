@@ -38,16 +38,6 @@ const Rotate = styled.image`
   
 
     // https://www.styled-components.com/docs/api#css
-
-  var sunFlareStyle = {
-    position: 'absolute',
-    top: 15,
-    left: 15,
-    width: 35,
-    height: 35,
-    background: 'transparent',
-    margin: 0,
-  };
     return (
       <div style={{
         background: 'white',
@@ -58,17 +48,17 @@ const Rotate = styled.image`
           position: 'absolute',
           top: 32,
           left: 32,
-          width: 35,
-          height: 35,
+          width: 96,
+          height: 96,
           background: 'transparent',
           margin: 0,
         }} src={sunBallLogo} alt="sun" />
-        <Rotate><img width='35px' height='35px' position='absolute' src={sunFlareLogo} alt="my image" /></Rotate>
+        <Rotate><img width='96px' height='96px' position='absolute' src={sunFlareLogo} alt="my image" /></Rotate>
         <RoundIconButton
           icon={houseLogo}
           background='white'
           text='房产投资'
-          marginTop='80px'
+          marginTop='120px'
           marginButton= '25px'
           height='48px'
           width='150px'
