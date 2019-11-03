@@ -59,7 +59,7 @@ const Rotate = styled.image`
           background='white'
           text='房产投资'
           marginTop='120px'
-          marginButton= '25px'
+          marginBottom= '25px'
           height='48px'
           width='150px'
           roundRadius='10px'
@@ -69,6 +69,8 @@ const Rotate = styled.image`
         <RoundIconButton
           icon={goldLogo}
           marginLeft='20px'
+          marginTop='20px'
+          marginBottom='20px'
           background='white'
           text='黄金买卖'
           height='48px'
