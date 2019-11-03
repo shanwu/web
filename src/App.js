@@ -31,7 +31,7 @@ const Rotate = styled.image`
   top:0;
   left:0;
   display: inline-block;
-  animation: ${rotate} 10s linear infinite;
+  animation: ${rotate} 25s linear infinite;
   font-size: 0rem;
   padding:2rem 2rem;
   `;
