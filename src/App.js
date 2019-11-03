@@ -41,7 +41,7 @@ const Rotate = styled.image`
     return (
       <div style={{
         background: 'white',
-        padding: '15px',
+        padding: '10px',
         borderRadius: '10px',
       }}>
         <img style={{
@@ -68,7 +68,7 @@ const Rotate = styled.image`
 
         <RoundIconButton
           icon={goldLogo}
-          marginLeft='20px'
+          marginLeft='10px'
           marginTop='20px'
           marginBottom='20px'
           background='white'
