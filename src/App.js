@@ -54,11 +54,15 @@ const Rotate = styled.image`
           margin: 0,
         }} src={sunBallLogo} alt="sun" />
         <Rotate><img width='96px' height='96px' position='absolute' src={sunFlareLogo} alt="my image" /></Rotate>
+        <text style={{
+          position: 'absolute',
+          top: 150,
+        }}>现在所拥有的就是最好的，但透过努力可以让明天更好</text><br/>
         <RoundIconButton
           icon={houseLogo}
           background='white'
           text='房产投资'
-          marginTop='120px'
+          marginTop='160px'
           marginBottom= '25px'
           height='48px'
           width='150px'
