@@ -48,7 +48,7 @@ export default class App extends React.Component {
         <div style={{
           width: '100%',
           height: 220,
-          background:'linear-gradient(to top left, #F0F8FF,#fff)',
+          background:'linear-gradient(to bottom right, white, white, white, #E5F7FF,#B2E7FF, #99DFFF)',
           position: 'absolute',
           left: 0,
           top: 0,
@@ -66,9 +66,10 @@ export default class App extends React.Component {
         <p style={{
           color:'#3a3a3a',
           position: 'absolute',
-          marginLeft: '60%',
+          marginLeft: '30%',
           zIndex:999,
-          top: 150,
+          fontWeight:900,
+          marginTop: '7rem',
         }}>现在所拥有的就是最好的，而努力可以让明天更好</p><br />
 
         <RoundIconButton
