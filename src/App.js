@@ -97,7 +97,20 @@ export default class App extends React.Component {
           textColor='#3a3a3a'
           onClickListener={() => { this.nextPath('gold') }} />
 
-        {/* <RoundIconButton
+        { <RoundIconButton
+          icon={accountLogo}
+          marginLeft='10px'
+          marginTop='20px'
+          marginBottom='20px'
+          background='white'
+          text='注册登入'
+          height='48px'
+          width='150px'
+          roundRadius='10px'
+          textColor='#3a3a3a'
+          onClickListener={() => { this.nextPath('register') }} /> }
+        
+        { <RoundIconButton
           icon={accountLogo}
           marginLeft='10px'
           marginTop='20px'
@@ -108,7 +121,7 @@ export default class App extends React.Component {
           width='150px'
           roundRadius='10px'
           textColor='#3a3a3a'
-          onClickListener={() => { this.nextPath('register') }} /> */}
+          onClickListener={() => { this.nextPath('register') }} /> }
       </div>
     );
   }

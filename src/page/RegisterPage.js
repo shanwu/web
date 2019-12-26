@@ -1,4 +1,5 @@
 import React from 'react';
+import RegisterForm from '../component/RegisterForm'
 
 export default class RegisterPage extends React.Component {
     constructor(props) {
@@ -6,6 +7,8 @@ export default class RegisterPage extends React.Component {
     }
 
     render() {
-        return (<h1>Account Registration page</h1>);
+        return (
+           <RegisterForm />
+            );
     }
 }
