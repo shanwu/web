@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/web/static/js/main.cec38491.chunk.js",
-    "main.js.map": "/web/static/js/main.cec38491.chunk.js.map",
+    "main.js": "/web/static/js/main.54438f6e.chunk.js",
+    "main.js.map": "/web/static/js/main.54438f6e.chunk.js.map",
     "runtime-main.js": "/web/static/js/runtime-main.1f589436.js",
     "runtime-main.js.map": "/web/static/js/runtime-main.1f589436.js.map",
-    "static/js/2.8d30b6f6.chunk.js": "/web/static/js/2.8d30b6f6.chunk.js",
-    "static/js/2.8d30b6f6.chunk.js.map": "/web/static/js/2.8d30b6f6.chunk.js.map",
+    "static/js/2.bb76bdf1.chunk.js": "/web/static/js/2.bb76bdf1.chunk.js",
+    "static/js/2.bb76bdf1.chunk.js.map": "/web/static/js/2.bb76bdf1.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.440fcfd816fc85c7ad59545237ad717f.js": "/web/precache-manifest.440fcfd816fc85c7ad59545237ad717f.js",
+    "precache-manifest.e1490dbc78ca15760d4cadf5a9c20ddc.js": "/web/precache-manifest.e1490dbc78ca15760d4cadf5a9c20ddc.js",
     "service-worker.js": "/web/service-worker.js",
     "static/media/app-debug.apk": "/web/static/media/app-debug.13165113.apk",
     "static/media/icon_account.svg": "/web/static/media/icon_account.ca121d2d.svg",
@@ -18,7 +18,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f589436.js",
-    "static/js/2.8d30b6f6.chunk.js",
-    "static/js/main.cec38491.chunk.js"
+    "static/js/2.bb76bdf1.chunk.js",
+    "static/js/main.54438f6e.chunk.js"
   ]
 }
