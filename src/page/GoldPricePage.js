@@ -6,6 +6,8 @@ export default class GoldPricePage extends React.Component {
     }
 
     render() {
-        return (<h1>Gold Price -- Under Construction</h1>);
+        return (
+            <p>testing~</p>
+        );
     }
 }
