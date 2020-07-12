@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.1eef1642.chunk.js",
-    "main.js.map": "/static/js/main.1eef1642.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74b9062d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74b9062d.js.map",
-    "static/js/2.88886f06.chunk.js": "/static/js/2.88886f06.chunk.js",
-    "static/js/2.88886f06.chunk.js.map": "/static/js/2.88886f06.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f75581e6995cbc1ba8638d67986fdc1a.js": "/precache-manifest.f75581e6995cbc1ba8638d67986fdc1a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/app-debug.apk": "/static/media/app-debug.13165113.apk",
-    "static/media/icon_account.svg": "/static/media/icon_account.ca121d2d.svg",
-    "static/media/icon_gold.svg": "/static/media/icon_gold.f4196d39.svg",
-    "static/media/icon_house.svg": "/static/media/icon_house.02c2a2ec.svg",
-    "static/media/icon_sun_ball.svg": "/static/media/icon_sun_ball.376e505f.svg",
-    "static/media/icon_sun_flare.svg": "/static/media/icon_sun_flare.963337bb.svg"
+    "main.js": "/web/static/js/main.cec38491.chunk.js",
+    "main.js.map": "/web/static/js/main.cec38491.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.1f589436.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.1f589436.js.map",
+    "static/js/2.8d30b6f6.chunk.js": "/web/static/js/2.8d30b6f6.chunk.js",
+    "static/js/2.8d30b6f6.chunk.js.map": "/web/static/js/2.8d30b6f6.chunk.js.map",
+    "index.html": "/web/index.html",
+    "precache-manifest.440fcfd816fc85c7ad59545237ad717f.js": "/web/precache-manifest.440fcfd816fc85c7ad59545237ad717f.js",
+    "service-worker.js": "/web/service-worker.js",
+    "static/media/app-debug.apk": "/web/static/media/app-debug.13165113.apk",
+    "static/media/icon_account.svg": "/web/static/media/icon_account.ca121d2d.svg",
+    "static/media/icon_gold.svg": "/web/static/media/icon_gold.f4196d39.svg",
+    "static/media/icon_house.svg": "/web/static/media/icon_house.02c2a2ec.svg",
+    "static/media/icon_sun_ball.svg": "/web/static/media/icon_sun_ball.376e505f.svg",
+    "static/media/icon_sun_flare.svg": "/web/static/media/icon_sun_flare.963337bb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74b9062d.js",
-    "static/js/2.88886f06.chunk.js",
-    "static/js/main.1eef1642.chunk.js"
+    "static/js/runtime-main.1f589436.js",
+    "static/js/2.8d30b6f6.chunk.js",
+    "static/js/main.cec38491.chunk.js"
   ]
 }
