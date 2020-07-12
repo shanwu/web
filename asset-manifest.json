@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.js": "/web/static/js/main.dde454db.chunk.js",
-    "main.js.map": "/web/static/js/main.dde454db.chunk.js.map",
+    "main.js": "/web/static/js/main.14fb3e41.chunk.js",
+    "main.js.map": "/web/static/js/main.14fb3e41.chunk.js.map",
     "runtime-main.js": "/web/static/js/runtime-main.1f589436.js",
     "runtime-main.js.map": "/web/static/js/runtime-main.1f589436.js.map",
-    "static/js/2.bb76bdf1.chunk.js": "/web/static/js/2.bb76bdf1.chunk.js",
-    "static/js/2.bb76bdf1.chunk.js.map": "/web/static/js/2.bb76bdf1.chunk.js.map",
+    "static/js/2.74690130.chunk.js": "/web/static/js/2.74690130.chunk.js",
+    "static/js/2.74690130.chunk.js.map": "/web/static/js/2.74690130.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.760d594465caf73a4823bf9ac2e290ed.js": "/web/precache-manifest.760d594465caf73a4823bf9ac2e290ed.js",
+    "precache-manifest.2e4ad29fa1f89b828ec20a41debd0d50.js": "/web/precache-manifest.2e4ad29fa1f89b828ec20a41debd0d50.js",
     "service-worker.js": "/web/service-worker.js",
-    "static/media/app-debug.apk": "/web/static/media/app-debug.13165113.apk",
     "static/media/icon_account.svg": "/web/static/media/icon_account.ca121d2d.svg",
     "static/media/icon_gold.svg": "/web/static/media/icon_gold.f4196d39.svg",
     "static/media/icon_house.svg": "/web/static/media/icon_house.02c2a2ec.svg",
@@ -18,7 +17,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f589436.js",
-    "static/js/2.bb76bdf1.chunk.js",
-    "static/js/main.dde454db.chunk.js"
+    "static/js/2.74690130.chunk.js",
+    "static/js/main.14fb3e41.chunk.js"
   ]
 }
