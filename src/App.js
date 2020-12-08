@@ -7,6 +7,8 @@ import goldLogo from '../src/image/icon_gold.svg';
 import sunBallLogo from '../src/image/icon_sun_ball.svg';
 import sunFlareLogo from '../src/image/icon_sun_flare.svg';
 import accountLogo from '../src/image/icon_account.svg';
+import ArticleCard from './component/ArticleCard.js';
+
 
 export default class App extends React.Component {
   constructor(props) {
@@ -41,10 +43,11 @@ export default class App extends React.Component {
     // https://www.styled-components.com/docs/api#css
     return (
       <div style={{
-        background: 'transparent',
+        background: 'transparant',
         padding: '10px',
         borderRadius: '10px',
       }}>
+
         <div style={{
           width: '100%',
           height: 220,
@@ -122,8 +125,36 @@ export default class App extends React.Component {
           roundRadius='10px'
           textColor='#3a3a3a'
           onClickListener={() => { this.nextPath('register') }} /> }
+            <div style={{
+                        background: 'transparant',
+                        position: "absolute",
+                        width:'100%',
+                        height:'15%',
+                        left:'10px',
+                        top: '33%',
+                        }}>
+            { <ArticleCard
+            icon={accountLogo}
+            marginLeft='10%'
+            marginRight='10%'
+            marginTop='20px'
+            marginBottom='20px'
+            background='white'
+            position='absolute'
+            text='这是我的第一张文章卡片，呵呵'
+            height='200px'
+            width='500px'
+            roundRadius='15px'
+            textColor='#3a3a3a'
+            onClickListener={() => { this.nextPath('article') }} /> }
+            </div>
+
+
       </div>
     );
   }
 
 }
+// position: 'absolute',
+// marginLeft: '30%',
+// zIndex:999,
