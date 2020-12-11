@@ -7,7 +7,7 @@ ldkjfskjfk**s**
 f`dasf`asf
 fdafdsaf
 
-$\sum_{age = 0}^{max} = Bitter + Sweet$
+<em>\sum_{age = 0}^{max}<em> = Bitter + Sweet
 
 
 ~one~ or ~~two~~ tildes.
@@ -28,4 +28,4 @@ $\sum_{age = 0}^{max} = Bitter + Sweet$
 2. fdksajfkldja
 3. 
 
-
+$\mathrlap{\it{/}}{^0}_{\,00}$

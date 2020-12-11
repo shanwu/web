@@ -62,14 +62,14 @@ export default class ArticleCard extends React.Component {
                         userSelect: 'none',
                         left:'0px',
                         background: 'transparent',
-                    }}>1985年1月3日</label>
+                    }}>{this.props.date}</label>
                     <label style={{
                         color: 'gray',
                         fontSize: '20px',
                         position: "absolute",
                         userSelect: 'none',
                         right:'30px',
-                    }}>#Machine learning</label>
+                    }}>{this.props.tag}</label>
                 </div>
                 </button>
         );
