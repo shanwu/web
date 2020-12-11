@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3944887df52f9fe89a25927415c3c9c",
+    "revision": "cacf3bb495c2c56608a8896078f35ec5",
     "url": "/web/index.html"
   },
   {
-    "revision": "5a3aa044e8451076c74d",
+    "revision": "6b18e45fc8e3ca77a9f3",
     "url": "/web/static/css/2.c0ed2e12.chunk.css"
   },
   {
-    "revision": "5a3aa044e8451076c74d",
-    "url": "/web/static/js/2.226fdcf2.chunk.js"
+    "revision": "6b18e45fc8e3ca77a9f3",
+    "url": "/web/static/js/2.aada303f.chunk.js"
   },
   {
-    "revision": "b362d956645dd302ad88",
-    "url": "/web/static/js/main.e3945371.chunk.js"
+    "revision": "f8ec59b558980b51871b",
+    "url": "/web/static/js/main.c65df22e.chunk.js"
   },
   {
     "revision": "9c25ffdd5da5b07ff37e",
@@ -270,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "02c2a2ec17406470c1b9238193211d8b",
     "url": "/web/static/media/icon_house.02c2a2ec.svg"
+  },
+  {
+    "revision": "c1bdb951367e9e5561ce1adc85d13411",
+    "url": "/web/static/media/icon_latex.c1bdb951.svg"
   },
   {
     "revision": "376e505fed2edd55a0ef4f16f338ec25",
