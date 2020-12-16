@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/web/static/js/main.c65df22e.chunk.js",
-    "main.js.map": "/web/static/js/main.c65df22e.chunk.js.map",
+    "main.js": "/web/static/js/main.cf1c315a.chunk.js",
+    "main.js.map": "/web/static/js/main.cf1c315a.chunk.js.map",
     "runtime-main.js": "/web/static/js/runtime-main.1f589436.js",
     "runtime-main.js.map": "/web/static/js/runtime-main.1f589436.js.map",
     "static/css/2.c0ed2e12.chunk.css": "/web/static/css/2.c0ed2e12.chunk.css",
     "static/js/2.aada303f.chunk.js": "/web/static/js/2.aada303f.chunk.js",
     "static/js/2.aada303f.chunk.js.map": "/web/static/js/2.aada303f.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.701b280af293318fdf416b67503ba31f.js": "/web/precache-manifest.701b280af293318fdf416b67503ba31f.js",
+    "precache-manifest.ce9bad655d25421f9321ba61a6551682.js": "/web/precache-manifest.ce9bad655d25421f9321ba61a6551682.js",
     "service-worker.js": "/web/service-worker.js",
     "static/css/2.c0ed2e12.chunk.css.map": "/web/static/css/2.c0ed2e12.chunk.css.map",
     "static/media/katex.min.css": "/web/static/media/KaTeX_Typewriter-Regular.641339e2.woff2",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.1f589436.js",
     "static/css/2.c0ed2e12.chunk.css",
     "static/js/2.aada303f.chunk.js",
-    "static/js/main.c65df22e.chunk.js"
+    "static/js/main.cf1c315a.chunk.js"
   ]
 }
