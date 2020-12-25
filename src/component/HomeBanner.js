@@ -55,6 +55,7 @@ export default class HomeBanner extends React.Component {
                   color:'#3a3a3a',
                   position: 'absolute',
                   marginLeft: '30%',
+                  fontSize: '20px',
                   zIndex:999,
                   fontWeight:900,
                   marginTop: '7rem',
