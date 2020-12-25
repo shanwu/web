@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff8d9000698394c9fb5bd5c1023dc86c",
+    "revision": "4eb0a765a8abcd2891926d051923643e",
     "url": "/web/index.html"
   },
   {
-    "revision": "20973d2005db3981869b",
+    "revision": "206e9b9074a9049fe828",
     "url": "/web/static/css/2.c0ed2e12.chunk.css"
   },
   {
-    "revision": "20973d2005db3981869b",
-    "url": "/web/static/js/2.8b67137d.chunk.js"
+    "revision": "206e9b9074a9049fe828",
+    "url": "/web/static/js/2.3153a4e9.chunk.js"
   },
   {
-    "revision": "c5367e4927c32e4468cb",
-    "url": "/web/static/js/main.be348af1.chunk.js"
+    "revision": "f9145178695b00c8cda1",
+    "url": "/web/static/js/main.6d900849.chunk.js"
   },
   {
     "revision": "9c25ffdd5da5b07ff37e",
@@ -258,6 +258,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "641339e2cd86c7816bfb8028ee7f86e0",
     "url": "/web/static/media/KaTeX_Typewriter-Regular.641339e2.woff2"
+  },
+  {
+    "revision": "af7c63548774391d9507c229c1d89f94",
+    "url": "/web/static/media/comment.af7c6354.svg"
   },
   {
     "revision": "3631f92ba0ad0233326c400e1d1bdbb2",
