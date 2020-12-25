@@ -7,7 +7,7 @@ import accountLogo from '../src/image/icon_account.svg';
 import latexLogo from '../src/image/icon_latex.svg'
 import ArticleCard from './component/ArticleCard.js';
 import exchangeRateLogo from '../src/image/exchange.svg'
-
+import NaNako from '../src/component/NaNaKo.js'
 
 export default class App extends React.Component {
   constructor(props) {
@@ -82,7 +82,7 @@ export default class App extends React.Component {
                         left:'15%',
                         top: '255px',
                         }}>
-             { <ArticleCard
+            { <ArticleCard
             icon={exchangeRateLogo}
             marginLeft='10%'
             marginRight='10%'
@@ -116,7 +116,15 @@ export default class App extends React.Component {
             textColor='#3a3a3a'
             onClickListener={() => { this.nextPath('latex_article') }} /> }
 
+
            
+            </div>
+            <div style={{
+              position: 'absolute',
+              left: '75%',
+              top: '75%'
+            }}>
+              <NaNako/>
             </div>
 
 
