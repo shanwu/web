@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://shanwu.github.io/web",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "markdown": "^0.5.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
