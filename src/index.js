@@ -1,10 +1,23 @@
-import ReactDOM from 'react-dom';
+import React from 'react';
+import { createRoot } from 'react-dom/client';
+import { ThemeProvider } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
 import * as serviceWorker from './serviceWorker';
-import routes from './routes';
-// https://codeburst.io/getting-started-with-react-router-5c978f70df91
+import App from './App';
+import theme from './theme';
+import './index.css';
 
+const container = document.getElementById('root');
+const root = createRoot(container);
 
-ReactDOM.render(routes, document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <App />
+    </ThemeProvider>
+  </React.StrictMode>
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

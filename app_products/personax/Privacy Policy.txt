@@ -1,0 +1,20 @@
+﻿Privacy Policy for MBTIx
+1. Introduction
+ Welcome to MBTIx! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application.
+2. Information We Collect
+ When you use MBTIx, we may collect information such as:
+* Personal Information: We do not collect any personally identifiable information directly through the app.
+
+* Usage Data: We collect information on how the app is accessed and used, such as time spent on the app and features used. This helps us improve the user experience.
+
+3. Use of Information
+ The information collected is used to improve the performance of the app and provide a better experience for users.
+4. Data Sharing and Security
+ MBTIx does not share personal data with third parties. We take appropriate measures to protect your information, including using encryption.
+5. Your Rights
+ As a user, you can stop using the app at any time. If you have any concerns about how your data is handled, please contact us.
+6. Changes to this Privacy Policy
+ We may update this Privacy Policy from time to time. When we do, we will post the updated policy in the app, and the changes will be effective immediately.
+7. Contact Information
+ If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: shanwustore@gmail.com
